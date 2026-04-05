@@ -1,4 +1,4 @@
 User-agent: *
-Allow: /
+Allow: /Myportfolio/
 
 Sitemap: https://harisaravananm.github.io/Myportfolio/sitemap.xml
