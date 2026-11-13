@@ -1,39 +1,46 @@
-# Hari Saravanan - Portfolio
+﻿# Hari Saravanan - Portfolio
 
-Personal portfolio website for Hari Saravanan, an AI and machine learning undergraduate interested in web development, software development, and practical machine learning.
+[![License](https://img.shields.io/github/license/harisaravananm/Myportfolio?style=for-the-badge)](https://github.com/harisaravananm/Myportfolio/blob/main/LICENSE)
+[![Last commit](https://img.shields.io/github/last-commit/harisaravananm/Myportfolio?style=for-the-badge)](https://github.com/harisaravananm/Myportfolio/commits/main)
+
+A personal portfolio website presenting Hari Saravanan's skills, certificates, projects, and professional links across web development, AI, and machine learning.
+
+## Table of Contents
+
+- [Features](#features)
+- [Tech stack](#tech-stack)
+- [Quick start](#quick-start)
+- [Project structure](#project-structure)
+- [License](#license)
 
 ## Features
 
-- Responsive portfolio layout with Home, About, Skills, Certificates, Projects, and Contact sections
-- Certificate gallery with click-to-view fullscreen images
-- Links to featured projects and professional profiles
-- Static HTML, CSS, and JavaScript with no build step
+- Clear project organization for learning, experimentation, or demonstration
+- Project-specific workflows documented below
+- Reproducible local setup instructions
 
-## Run locally
+## Tech stack
 
-Clone the repository and open `index.html` in a browser:
+HTML, CSS, JavaScript, responsive design, and static web hosting
+
+## Quick start
 
 ```bash
 git clone https://github.com/harisaravananm/Myportfolio.git
 cd Myportfolio
-```
-
-You can also serve the folder with any static web server, for example:
-
-```bash
 python -m http.server 8000
 ```
 
-Then visit `http://localhost:8000`.
+Open `http://localhost:8000`.
 
 ## Project structure
 
 ```text
 .
-├── index.html
-├── style.css
-├── script.js
-└── asset/
+|-- index.html
+|-- style.css
+|-- script.js
+`-- asset/
 ```
 
 ## License
