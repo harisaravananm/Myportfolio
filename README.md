@@ -1,7 +1,8 @@
-﻿# Hari Saravanan - Portfolio
+# Hari Saravanan - Portfolio
 
-[![License](https://img.shields.io/github/license/harisaravananm/Myportfolio?style=for-the-badge)](https://github.com/harisaravananm/Myportfolio/blob/main/LICENSE)
-[![Last commit](https://img.shields.io/github/last-commit/harisaravananm/Myportfolio?style=for-the-badge)](https://github.com/harisaravananm/Myportfolio/commits/main)
+<!-- tech-version-badges -->
+![HTML 5](https://img.shields.io/badge/HTML-5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS 3](https://img.shields.io/badge/CSS-3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript ES6](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+<!-- /tech-version-badges -->
 
 A personal portfolio website presenting Hari Saravanan's skills, certificates, projects, and professional links across web development, AI, and machine learning.
 
